@@ -1,5 +1,3 @@
-# Online-Food-Delivery-Platform
-Built a food delivery website where users can find restaurants, browse food, add items to cart, place and track orders, and give reviews. Restaurants can manage menus and orders, while admins manage users and restaurants. Used React, Python, PostgreSQL, AWS, and Docker.
 # 🍔 Online Food Delivery Platform
 
 A full-stack food delivery platform where customers can discover restaurants, browse menus, place orders, track their orders, and give reviews. Restaurant partners can manage their menus and orders, while admins can manage users, restaurants, and platform activity.
